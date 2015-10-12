@@ -2056,6 +2056,12 @@
     <!-- [CHAR LIMIT=40] Sound & display settings screen, title of dialog for picking font size -->
     <string name="dialog_title_font_size">Font size</string>
 
+    <!-- Wakeup section under Display settings -->
+    <string name="wakeup_section_header">Wake up</string>
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Volume rocker wake</string>
+    <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
+
     <!-- SIM lock settings title  [CHAR LIMIT=40] -->
     <string name="sim_lock_settings">SIM card lock settings</string>
     <!-- Security & location settings screen, setting option name  [CHAR LIMIT=40] -->
