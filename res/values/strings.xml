@@ -2061,7 +2061,13 @@
     <!-- Volume rocker wake -->
     <string name="volume_rocker_wake_title">Volume rocker wake</string>
     <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
-
+   
+    <!-- StatusBar section under Display settings -->
+    <string name="statusbar_section_header">Status Bar</string>
+    <!-- tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Double-tap to sleep</string>
+    <string name="double_tap_to_sleep_summary">Double-tap on the status bar to turn off the display</string>
+ 
     <!-- SIM lock settings title  [CHAR LIMIT=40] -->
     <string name="sim_lock_settings">SIM card lock settings</string>
     <!-- Security & location settings screen, setting option name  [CHAR LIMIT=40] -->
